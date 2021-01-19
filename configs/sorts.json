@@ -11,28 +11,36 @@
     ], 
     "__positions": {
         "content": 2, 
+        "content/post/retro.md": 2002002, 
         "content/about.md": 2001, 
         "archetypes": 1, 
         "content/post": 2002, 
         "themes": 8, 
         "layouts": 4, 
         "static": 7, 
+        "resources": 6, 
         "data": 3, 
         "public": 5, 
-        "resources": 6
+        "content/post/yes-and.md": 2002001
     }, 
     "content": [
         "about.md", 
         "post"
     ], 
+    "content/post": [
+        "yes-and.md", 
+        "retro.md"
+    ], 
     "__raw_positions": {
         "themes": 8, 
+        "content/post/retro.md": 2, 
         "content/about.md": 1, 
         "archetypes": 1, 
         "content/post": 2, 
         "content": 2, 
         "layouts": 4, 
         "static": 7, 
+        "content/post/yes-and.md": 1, 
         "data": 3, 
         "public": 5, 
         "resources": 6
