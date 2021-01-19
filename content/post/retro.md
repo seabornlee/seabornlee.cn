@@ -6,6 +6,7 @@ Tags: []
 Categories: [敏捷教练]
 DisableComments: false
 ---
+
 在做敏捷教练培养咨询项目时，经常有内部教练问：
 >团队以没时间为由，拒绝召开回顾会议，怎么办？
 
