@@ -1,0 +1,40 @@
+{
+    "": [
+        "archetypes", 
+        "content", 
+        "data", 
+        "layouts", 
+        "public", 
+        "resources", 
+        "static", 
+        "themes"
+    ], 
+    "__positions": {
+        "content": 2, 
+        "content/about.md": 2001, 
+        "archetypes": 1, 
+        "content/post": 2002, 
+        "themes": 8, 
+        "layouts": 4, 
+        "static": 7, 
+        "data": 3, 
+        "public": 5, 
+        "resources": 6
+    }, 
+    "content": [
+        "about.md", 
+        "post"
+    ], 
+    "__raw_positions": {
+        "themes": 8, 
+        "content/about.md": 1, 
+        "archetypes": 1, 
+        "content/post": 2, 
+        "content": 2, 
+        "layouts": 4, 
+        "static": 7, 
+        "data": 3, 
+        "public": 5, 
+        "resources": 6
+    }
+}
