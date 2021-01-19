@@ -1,4 +1,4 @@
-baseURL = "http://seabornlee.cn/"
+baseURL = "https://seabornlee.cn/"
 languageCode = "zh-CN"
 DefaultContentLanguage = "cn"
 theme = "anatole"
