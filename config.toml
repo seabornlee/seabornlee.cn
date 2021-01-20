@@ -1,94 +1,75 @@
-baseURL = "https://seabornlee.cn/"
-languageCode = "zh-CN"
-DefaultContentLanguage = "cn"
-theme = "anatole"
-summarylength = 10
-enableEmoji = true
-enableRobotsTXT = true
+baseURL = "https://raditian-hugo.radity.com/"
+languageCode = "en-us"
+theme = "raditian-free-hugo-theme"
 
-# Enable Disqus
-#disqusShortname = ""
+# Plugins
+[params.plugins]
 
-# Google Analytics
-googleAnalytics = "G-TPHYCP133Q"
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "css/main.css"
+  [[params.plugins.css]]
+  URL = "css/rad-icons.css"
+  [[params.plugins.css]]
+  URL = "css/custom.css"
 
-# Syntax highlighting
-pygmentsUseClasses = true
-pygmentsCodeFences = true
-pygmentsCodefencesGuessSyntax = true
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "js/rad-animations.js"
+  [[params.plugins.js]]
+  URL = "js/sticky-header.js"
+  [[params.plugins.js]]
+  URL = "js/library/fontfaceobserver.js"
 
-[params]
-title = "李小波 敏捷教练"
-author = "Seaborn Lee"
-#copyright = "2020-2021"
-description = "自律 爱家 成事 利他"
-profilePicture = "images/profile.jpg"
-keywords = ""
-favicon = "favicons/"
-# example ["css/custom.css"]
-customCss = []
-# example ["js/custom.js"]
-customJs = [] 
-mainSections = ["post"]
-images = ["images/site-feature-image.png"]
-doNotLoadAnimations = false
-# Form Spree Contact Form
-#contactFormAction = "https://formspree.io/f/your-form-hash-here"
-# Google Site Verify
-#googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
-# indexDateFormat = "Mon, Jan 2, 2006"
-# listDateFormat = "Jan 2"
-# singleDateFormat = "Mon, Jan 2, 2006"
 
-[params.simpleAnalytics]
-# enable = true
-# customurl = "https://analytics.example.com"
-
-## Math settings
-[params.math]
-enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
-use = "katex"  # options: "katex", "mathjax". default is "katex".
-
-## Social links
-# use 'fab' when brand icons, use 'fas' when standard solid icons.
-[[params.socialIcons]]
-icon = "fab fa-linkedin"
-title = "LinkedIn"
-url = "https://www.linkedin.com/in/seaborn-lee"
-
-[[params.socialIcons]]
-icon = "fab fa-github"
-title = "GitHub"
-url = "https://github.com/seabornlee"
-
-[[params.socialIcons]]
-icon = "fab fa-instagram"
-title = "软件匠艺小组"
-url = "https://www.codingstyle.cn/"
-
-[[params.socialIcons]]
-icon = "fas fa-envelope"
-title = "e-mail"
-url = "mailto:seabornlee.cn@gmail.com"
-
-## Menu items
-
+# navigation
 [menu]
 
-  [[menu.main]]
-  name = "Home"
-  identifier = "home"
-  weight = 100
-  url = "/"
-
-  [[menu.main]]
-  name = "Posts"
-  weight = 200
-  identifier = "posts"
-  url = "/post/"
-
-  [[menu.main]]
+  [[menu.header]]
   name = "About"
-  weight = 300
-  identifier = "about"
-  url = "/about/"
+  URL = "#about"
+  weight = 2
+
+  [[menu.header]]
+  name = "Portfolio"
+  URL = "#portfolio"
+  weight = 3
+
+  [[menu.header]]
+  name = "Contact"
+  URL = "#contact"
+  weight = 4
+
+
+  [[menu.footer]]
+  name = "About"
+  URL = "#about"
+  weight = 2
+
+  [[menu.footer]]
+  name = "Portfolio"
+  URL = "#portfolio"
+  weight = 3
+
+  [[menu.footer]]
+  name = "Contact"
+  URL = "#contact"
+  weight = 4
+
+
+[params]
+
+  sections = ["showcase", "about", "education", "experience", "client-and-work", "testimonial", "contact", "newsletter"]
+
+  googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
+
+  [params.logo]
+    text1 = "Andreas"
+    text2 = "Ellure"
+
+  [params.footer]
+      copyright = "© Raditian. All rights reserved."
+      [params.footer.radity_logo]
+        x = "img/general/design-and-code-radity.png"
+        _2x = "img/general/design-and-code-radity@2x.png"
+        alt = "Design & Code - Radity"
