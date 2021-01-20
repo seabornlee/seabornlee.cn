@@ -39,14 +39,22 @@ about:
   enable: true
   title: "Who am I?"
   content: '<p class="lead">
-    I am back, after a few days of vacationing with family. Weather was awesome, the beach was
-    full of nasty jelly-fish, yuk! All-in-all, life has been good. I hope life has been as
-    good for all of you.
+1 敏捷/精益/DevOps专家，曾任ThoughtWorks 社招入职培训导师
+<br>
+2 擅长培训，团队引导和一对一教练，在京东培训NPS 达96%
+<br>
+3 华为外聘技术教练、优普丰首席工程教练，京东、上海期货指定其提供服务
+<br>
+4 从 2013年起面对客户工作，从CXO到一线员工都能高效互动
+<br>
+5 文化适应性强，服务过私企、国企、外企、上市公司，创过业
+<br>
+6 能从工作、家庭、自我管理等多方面成就客户，身体力行地影响他人
+<br>
+7 著有知识星球《成为百万年薪的敏捷教练》，译有《七周七语言二》
+<p class="lead">
+生长在贵州，曾在北京、深圳工作，目前和家人居住在成都
     </p>
-    <p class="lead">
-    My area of focus lies in designing web and mobile products, user research as well as
-    leading of design & front-end teams. I enjoy designing and coding the UI as much as
-    talking with users to iterate and improve the experiences that reach business goals.
     </p>'
   button:
     icon: "icon-smile-fill"
