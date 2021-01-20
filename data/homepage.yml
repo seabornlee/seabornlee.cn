@@ -183,30 +183,30 @@ testimonial:
   enable: true
   title: "Testimonials"
   items:
-    - name: "Daniel Jordan"
-      position: "Phonet, CEO"
-      content: "Cold calling can be a great way to generate quality leads. You get to speak to the gatekeepers and stakeholders, and you get a great insight into their requirements and influences. But cold calling is an art-form. It can be daunting, it’s always a lot of work, and you always need to make a good impression."
+    - name: "Aananth Solaiyappan"
+      position: "WeLab, CTO"
+      content: "Seaborne has the right mix of curiosity, talent and passionate hard work. He was an Agile evangelist and always loved to share his knowledge and experiences with other team members. I'd love to have him back in my team any day."
       image:
-        x: "img/testimonials/daniel-jordan.jpg"
-        _2x: "img/testimonials/daniel-jordan@2x.jpg"
+        x: "img/testimonials/aananth.jpg"
+        _2x: "img/testimonials/aananth@2x.jpg"
 
-    - name: "Jonathan Peters"
-      position: "Textic, CEO"
-      content: "Whether you or your loved one is encountering the natural decrease in mobility that occurs with the passing of time, or deals with an illness-related lack of physical agility, a stair lift can be the ideal way to put you in charge of your home again. Regardless of the shape or make of your living accommodation."
+    - name: "王淑静"
+      position: "中航信沈阳研发中心，总经理"
+      content: "一位热爱生活热爱技术的教练，一位知行合一值得信赖的培训师，明明可以靠颜值却偏要靠实力的小波老师，对编程语言和业务拥有持续的好奇心，可以洞察事物的本质，直接触达培训人员的内心，给了我们团队很大的帮助！"
       image:
-        x: "img/testimonials/jonathan-peters.jpg"
-        _2x: "img/testimonials/jonathan-peters@2x.jpg"
+        x: "img/testimonials/wsj.jpg"
+        _2x: "img/testimonials/wsj@2x.jpg"
 
-    - name: "Antonio Willis"
-      position: "Cyberse, CEO"
-      content: "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
+    - name: "高连华"
+      position: "福佑卡车, 技术总监"
+      content: "在整个敏捷实施过程中，你在每个环节都配合了趣味的活动和仪式感，让团队成员高速响应业务需求之外，沟通更加充分高效，轻松愉快，团队目标感，责任感大大增强。让我们两个敏捷团队参与成员，从对敏捷有模糊的认知到高度的认同！"
       image:
-        x: "img/testimonials/antonio-willis.jpg"
-        _2x: "img/testimonials/antonio-willis@2x.jpg"
+        x: "img/testimonials/gg.png"
+        _2x: "img/testimonials/gg@2x.png"
 
 # contact
 contact:
-  enable: true
+  enable: false
   title: "Contact"
   form:
     method: "POST"
@@ -229,7 +229,7 @@ contact:
 
 # newsletter
 newsletter:
-  enable: true
+  enable: false
   title: "Newsletter subscription"
   success_message: "Successfully subscribed"
   error_message: "Error while subscribing."
