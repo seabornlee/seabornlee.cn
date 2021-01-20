@@ -26,35 +26,24 @@ theme = "raditian-free-hugo-theme"
 [menu]
 
   [[menu.header]]
-  name = "About"
-  URL = "#about"
+  name = "文章"
+  URL = "https://www.jianshu.com/u/8c334a900445"
   weight = 2
 
   [[menu.header]]
-  name = "Portfolio"
-  URL = "#portfolio"
+  name = "编程"
+  URL = "https://codingstyle.cn"
   weight = 3
 
-  [[menu.header]]
-  name = "Contact"
-  URL = "#contact"
-  weight = 4
-
-
   [[menu.footer]]
-  name = "About"
-  URL = "#about"
+  name = "文章"
+  URL = "https://www.jianshu.com/u/8c334a900445"
   weight = 2
 
   [[menu.footer]]
-  name = "Portfolio"
-  URL = "#portfolio"
+  name = "编程"
+  URL = "https://codingstyle.cn"
   weight = 3
-
-  [[menu.footer]]
-  name = "Contact"
-  URL = "#contact"
-  weight = 4
 
 
 [params]
@@ -68,7 +57,7 @@ theme = "raditian-free-hugo-theme"
     text2 = "Lee"
 
   [params.footer]
-      copyright = "© Raditian. All rights reserved."
+      copyright = "© Seaborn. All rights reserved."
       [params.footer.radity_logo]
         x = "img/general/design-and-code-radity.png"
         _2x = "img/general/design-and-code-radity@2x.png"
