@@ -5,9 +5,9 @@ homepage:
 # showcase
 showcase:
   enable: true
-  title: "你好, 我是 Seaborn Lee."
-  subtitle: "全栈工程师"
-  description: "I work at <a target='_blank' href='https://radity.com/'>Radity</a>, a software development company in Switzerland. And I am a Raditian. You get the idea where theme name comes from. Keep cool, stay in touch. You can download this theme from <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
+  title: "你好，我是 Seaborn Lee"
+  subtitle: "一位有趣的敏捷教练"
+  description: "热衷于做产品的全栈工程师，优普丰首席软件工程教练，前 ThoughtWorks 高级咨询师，前 ThoughtWorks 首席培训师，著有《成为百万年薪的敏捷教练》知识星球，译有《七周七语言二》。三个孩子的父亲，力求培养有良知，志向远大，具备独立思考能力的未来企业家；爱好 🎹，🛹，🏄，⛷ 等。"
   image:
     alt: "Showcase keyboard and mouse image"
     x: "img/showcase/showcase.png"
@@ -19,38 +19,20 @@ showcase:
   button:
     icon: "icon-mail-fill"
     btnText: "Contact"
-    URL: "https://radity.com/en/contact/"
+    URL: "mailto:seabornlee.cn@gmail.com"
 
   socialLinks:
     - icon: "linkedin"
-      URL: "https://www.linkedin.com/company/radity/"
+      URL: "https://www.linkedin.com/in/seaborn-lee"
 
     - icon: "github"
-      URL: "https://github.com/radity"
+      URL: "https://github.com/seabornlee"
 
     - icon: "twitter"
-      URL: "https://twitter.com/radity"
-
-    - icon: "dribbble"
-      URL: "https://dribbble.com/radity"
-
-    - icon: "behance"
-      URL: "https://www.behance.net/radity-digital"
-
-    - icon: "youtube"
-      URL: "https://www.youtube.com/channel/UCojEc6SPO-W1_CoeHhK9-Zw"
-
-    - icon: "instagram"
-      URL: "https://www.instagram.com/teamradity/"
+      URL: "https://twitter.com/seabornli"
 
     - icon: "facebook"
-      URL: "https://www.facebook.com/raditycom/"
-
-    - icon: "codepen"
-      URL: "#"
-
-    - icon: "yelp"
-      URL: "https://www.yelp.com/"
+      URL: "https://www.facebook.com/seaborn.lee/"
 
 # about
 about:
@@ -69,10 +51,10 @@ about:
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
-    URL: "https://www.linkedin.com/company/radity/"
+    URL: "https://www.linkedin.com/in/seaborn-lee"
   image:
-    x: "img/who-am-i/user-picture.png"
-    _2x: "img/who-am-i/user-picture@2x.png"
+    x: "img/who-am-i/profile.png"
+    _2x: "img/who-am-i/profile@2x.png"
 
 # education
 education:

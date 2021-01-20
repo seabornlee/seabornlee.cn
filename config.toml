@@ -61,7 +61,7 @@ theme = "raditian-free-hugo-theme"
 
   sections = ["showcase", "about", "education", "experience", "client-and-work", "testimonial", "contact", "newsletter"]
 
-  googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
+  googleTagManagerID = "G-TPHYCP133Q" # Google Analytics works with Google Tag Manager
 
   [params.logo]
     text1 = "Seaborn"
@@ -73,5 +73,3 @@ theme = "raditian-free-hugo-theme"
         x = "img/general/design-and-code-radity.png"
         _2x = "img/general/design-and-code-radity@2x.png"
         alt = "Design & Code - Radity"
-  [params.homepage.about]
-    title = "Hello"
