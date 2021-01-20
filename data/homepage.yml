@@ -66,7 +66,7 @@ about:
 
 # education
 education:
-  enable: true
+  enable: false
   title: "Education"
   items:
     - university: "University of Waterloo"
@@ -81,28 +81,31 @@ education:
 experience:
   enable: true
   title: "Experience"
-  description: "Over 15+ years of experience working with companies from all over the world. I design & develop digital products to help businesses and improve people's lives."
+  description: '
+    超过 12 年软件产品研发经验，致力于促进团队协作，提升开发体验，交付更大价值；
+    擅长灵活运用培训，引导，教练等技术发展他人；
+    精通前后端，移动端应用开发'
   button:
     icon: "icon-linkedin-fill"
-    btnText: "Linkedin"
-    URL: "https://www.linkedin.com/company/radity/"
+    btnText: "LinkedIn"
+    URL: "https://www.linkedin.com/in/seaborn-lee"
   button2:
     icon: "icon-profile-fill"
-    btnText: "Download My Resume"
-    URL: "#"
+    btnText: "下载我的简历"
+    URL: "李小波-敏捷教练.pdf"
 
   items:
-    - title: "Sr. Front-End Developer"
-      company: "Radity"
-      duration: "Feb 2011 - Sep 2019"
+    - title: "首席工程教练"
+      company: "优普丰敏捷学院"
+      duration: "Jun 2018 - Present"
 
-    - title: "Sr. Front-End Developer"
-      company: "Textic"
-      duration: "Apr 2010 - Jan 2011"
+    - title: "首席培训师/高级咨询师"
+      company: "ThoughtWorks"
+      duration: "Jun 2016 - Jun 2018，Aug 2013 - Aug 2015"
 
-    - title: "Jr. Front-End Developer"
-      company: "Cyberse"
-      duration: "Jun 2009 - Mar 2010"
+    - title: "技术合伙人 & CTO"
+      company: "ShenzhenWare"
+      duration: "Aug 2015 - Jun 2016"
 
 # Client & Work
 client_and_work:
@@ -111,67 +114,68 @@ client_and_work:
 
   clients:
     - logo:
-        x: "img/clients/asgardia.png"
-        _2x: "img/clients/asgardia@2x.png"
-      alt: "Asgardia"
+        x: "img/clients/huawei.png"
+        _2x: "img/clients/huawei@2x.png"
+      alt: "华为"
 
     - logo:
-        x: "img/clients/earth-2.png"
-        _2x: "img/clients/earth-2@2x.png"
-      alt: "Earth 2.0"
+        x: "img/clients/tencent.png"
+        _2x: "img/clients/tencent@2x.png"
+      alt: "腾讯"
 
     - logo:
-        x: "img/clients/goldline.png"
-        _2x: "img/clients/goldline@2x.png"
-      alt: "Goldline"
+        x: "img/clients/pufa.png"
+        _2x: "img/clients/pufa@2x.png"
+      alt: "浦发银行"
 
     - logo:
-        x: "img/clients/kanba.png"
-        _2x: "img/clients/kanba@2x.png"
-      alt: "Kanba"
+        x: "img/clients/travelsky.jpg"
+        _2x: "img/clients/travelsky@2x.jpg"
+      alt: "中航信"
 
     - logo:
-        x: "img/clients/zoo-tv.png"
-        _2x: "img/clients/zoo-tv@2x.png"
-      alt: "Zoo"
+        x: "img/clients/bz.png"
+        _2x: "img/clients/bz@2x.png"
+      alt: "宝尊电商"
 
     - logo:
-        x: "img/clients/ztos.png"
-        _2x: "img/clients/ztos@2x.png"
-      alt: "Ztos"
+        x: "img/clients/iplayabc.png"
+        _2x: "img/clients/iplayabc@2x.png"
+      alt: "绘玩英语"
+
 
   works:
-    - title: "Radity Finance - UI Kit"
-      description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
+    - title: "华为技术教练"
+      description: "为华为提供重构，TDD，OO，结对编程，代码评审等内容，辅导团队技术 Leader 成长"
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
         URL: "#"
       image:
-        x: "img/works/radity-finance.jpg"
-        _2x: "img/works/radity-finance@2x.jpg"
+        x: "img/works/huawei.jpg"
+        _2x: "img/works/huawei@2x.jpg"
       is_even: true
 
-    - title: "Swiss Fintech Website"
-      description: "The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland."
+    - title: "浦发敏捷转型"
+      description: "为浦发银行成都分中心提供千人组织级转型辅导，包括组织结构调整，内部教练培养，文化社区建设等"
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
         URL: "#"
       image:
-        x: "img/works/swissfintech.jpg"
-        _2x: "img/works/swissfintech@2x.jpg"
+        x: "img/works/pufa.jpg"
+        _2x: "img/works/pufa@2x.jpg"
       is_even: false
 
-    - title: "Robo Advisor"
-      description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
+    - title: "腾讯PCG 单元测试培训"
+      description: "为腾讯开发人员提供单元测试原则，Mock，代码重构，可测试性提升相关的培训"
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
         URL: "#"
       image:
-        x: "img/works/robo-advisor.jpg"
-        _2x: "img/works/robo-advisor@2x.jpg"
+        x: "img/works/tencent.jpg"
+        _2x: "img/works/tencent@2x.jpg"
       is_even: true
 
 # testimonial
