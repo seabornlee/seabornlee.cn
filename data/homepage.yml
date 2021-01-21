@@ -124,9 +124,19 @@ client_and_work:
       alt: "腾讯"
 
     - logo:
+        x: "img/clients/dji.png"
+        _2x: "img/clients/dji@2x.png"
+      alt: "大疆无人机"
+
+    - logo:
         x: "img/clients/pufa.png"
         _2x: "img/clients/pufa@2x.png"
       alt: "浦发银行"
+
+    - logo:
+        x: "img/clients/mastercard.png"
+        _2x: "img/clients/mastercard@2x.png"
+      alt: "mastercard"
 
     - logo:
         x: "img/clients/travelsky.jpg"
@@ -143,6 +153,30 @@ client_and_work:
         _2x: "img/clients/iplayabc@2x.png"
       alt: "绘玩英语"
 
+    - logo:
+        x: "img/clients/oocl.png"
+        _2x: "img/clients/oocl@2x.png"
+      alt: "OOCL"
+
+    - logo:
+        x: "img/clients/hsbc.png"
+        _2x: "img/clients/hsbc@2x.png"
+      alt: "汇丰银行"
+
+    - logo:
+        x: "img/clients/jd.png"
+        _2x: "img/clients/jd@2x.png"
+      alt: "JD"
+
+    - logo:
+        x: "img/clients/welab.png"
+        _2x: "img/clients/welab@2x.png"
+      alt: "WeLab"
+
+    - logo:
+        x: "img/clients/tellhow.png"
+        _2x: "img/clients/tellhow@2x.png"
+      alt: "泰豪科技"
 
   works:
     - title: "华为技术教练"
