@@ -1,7 +1,5 @@
-# homepage
-homepage:
-  head:
-    title: "李小波 - Seaborn Lee"
+head:
+  title: "李小波 - Seaborn Lee"
 # showcase
 showcase:
   enable: true
