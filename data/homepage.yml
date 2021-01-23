@@ -57,7 +57,7 @@ about:
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
-    URL: "https://www.linkedin.com/in/seaborn-lee"
+    URL: "https://timeline.seabornlee.cn/timeline/consultant/"
   image:
     x: "img/who-am-i/profile.png"
     _2x: "img/who-am-i/profile@2x.png"
