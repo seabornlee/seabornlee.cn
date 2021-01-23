@@ -48,7 +48,7 @@ theme = "raditian-free-hugo-theme"
 
 [params]
 
-  sections = ["showcase", "about", "education", "experience", "client-and-work", "testimonial", "contact", "newsletter"]
+  sections = ["showcase", "about", "education", "experience", "client-and-work", "testimonial", "certification", "contact", "newsletter"]
 
   googleTagManagerID = "G-TPHYCP133Q" # Google Analytics works with Google Tag Manager
 

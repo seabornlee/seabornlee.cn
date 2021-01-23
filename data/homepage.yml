@@ -210,6 +210,52 @@ client_and_work:
         _2x: "img/works/tencent@2x.jpg"
       is_even: true
 
+certification:
+  title: "Certifications"
+  enable: true
+
+  certifications:
+    - logo:
+        x: "img/certifications/cipmt.png"
+        _2x: "img/certifications/cipmt@2x.png"
+      url: "https://www.ciichr.com/nciichr/index/rcglyfz/kcpx/cipmtgjzypxsrz/index.html"
+      alt: "Certified International Professional Managers Trainer Program"
+    - logo:
+        x: "img/certifications/sats.png"
+        _2x: "img/certifications/sats@2x.png"
+      url: "https://www.scruminc.com/scrum-at-scale-certification/"
+      alt: "Scrum@Scale"
+    - logo:
+        x: "img/certifications/csp-sm.png"
+        _2x: "img/certifications/csp-sm@2x.png"
+      url: "https://www.scrumalliance.org/community/profile/xli87"
+      alt: "Certified Scrum Professional Scrum Master"
+    - logo:
+        x: "img/certifications/acsm.png"
+        _2x: "img/certifications/acsm@2x.png"
+      url: "https://www.scrumalliance.org/community/profile/xli87"
+      alt: "英国皇家工会认证国际职业培训师"
+    - logo:
+        x: "img/certifications/cspo.png"
+        _2x: "img/certifications/cspo@2x.png"
+      url: "https://www.scrumalliance.org/community/profile/xli87"
+      alt: "英国皇家工会认证国际职业培训师"
+    - logo:
+        x: "img/certifications/csd.png"
+        _2x: "img/certifications/csd@2x.png"
+      url: "https://www.scrumalliance.org/community/profile/xli87"
+      alt: "英国皇家工会认证国际职业培训师"
+    - logo:
+        x: "img/certifications/dom.png"
+        _2x: "img/certifications/dom@2x.png"
+      url: "https://baidu.com"
+      alt: "英国皇家工会认证国际职业培训师"
+    - logo:
+        x: "img/certifications/csm.png"
+        _2x: "img/certifications/csm@2x.png"
+      url: "https://www.scrumalliance.org/community/profile/xli87"
+      alt: "英国皇家工会认证国际职业培训师"
+
 # testimonial
 testimonial:
   enable: true
