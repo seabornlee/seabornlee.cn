@@ -35,6 +35,11 @@ theme = "raditian-free-hugo-theme"
   URL = "https://codingstyle.cn"
   weight = 3
 
+  [[menu.header]]
+  name = "时间线"
+  URL = "https://timeline.seabornlee.cn/timeline"
+  weight = 4
+
   [[menu.footer]]
   name = "文章"
   URL = "https://www.jianshu.com/u/8c334a900445"
@@ -45,6 +50,10 @@ theme = "raditian-free-hugo-theme"
   URL = "https://codingstyle.cn"
   weight = 3
 
+  [[menu.footer]]
+  name = "时间线"
+  URL = "https://timeline.seabornlee.cn/timeline"
+  weight = 4
 
 [params]
 
@@ -62,3 +71,4 @@ theme = "raditian-free-hugo-theme"
         x = "img/general/design-and-code-radity.png"
         _2x = "img/general/design-and-code-radity@2x.png"
         alt = "Design & Code - Radity"
+  name = "编程"
