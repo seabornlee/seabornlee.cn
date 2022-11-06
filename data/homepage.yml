@@ -4,8 +4,8 @@ head:
 showcase:
   enable: true
   title: "你好，我是小波老西"
-  subtitle: "一位有趣的敏捷教练"
-  description: "热衷于做产品的全栈工程师，优普丰首席软件工程教练，前 ThoughtWorks 高级咨询师，前 ThoughtWorks 首席培训师，著有《成为百万年薪的敏捷教练》知识星球，译有《七周七语言二》。三个孩子的父亲，力求培养有良知，志向远大，具备独立思考能力的未来企业家；爱好 🎹，🛹，🏄，⛷ 等。"
+  subtitle: "一位有趣程序员，敏捷教练"
+  description: "热衷于做产品的全栈工程师，前优普丰首席软件工程教练，前 Thoughtworks 高级咨询师，前 Thoughtworks 首席培训师，著有《成为百万年薪的敏捷教练》知识星球，译有《七周七语言二》。三个孩子的父亲，力求培养有良知，志向远大，具备独立思考能力的未来企业家；爱好 🎹，🛹，🏄，⛷ 等。"
   image:
     alt: "Showcase keyboard and mouse image"
     x: "img/showcase/showcase.png"
@@ -80,7 +80,7 @@ experience:
   enable: true
   title: "Experience"
   description: '
-    超过 12 年软件产品研发经验，致力于促进团队协作，提升开发体验，交付更大价值；
+    超过 13 年软件产品研发经验，致力于促进团队协作，提升开发体验，交付更大价值；
     擅长灵活运用培训，引导，教练等技术发展他人；
     精通前后端，移动端应用开发'
   button:
@@ -93,9 +93,13 @@ experience:
     URL: "李小波-敏捷教练.pdf"
 
   items:
+    - title: "AlphaWallet Android Lead"
+      company: "Smart Token Labs"
+      duration: "Jan 2022 - Present"
+
     - title: "首席工程教练"
       company: "优普丰敏捷学院"
-      duration: "Jun 2018 - Present"
+      duration: "Jun 2018 - Dec 2021"
 
     - title: "首席培训师/高级咨询师"
       company: "ThoughtWorks"
