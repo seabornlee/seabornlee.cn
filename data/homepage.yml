@@ -160,6 +160,24 @@ about:
     x: "img/who-am-i/profile.png"
     _2x: "img/who-am-i/profile@2x.png"
 
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "麻省理工"
+      year: "2022-2023"
+      degree: "Finance MicroMasters"
+    - university: "混沌大学"
+      year: "2021.04 - 2021.06"
+      degree: "创新方法论，第二曲线，错位竞争..."
+    - university: "海创汇创业加速营"
+      year: "2021.03 - 2021.08"
+      degree: "商业模式创新"
+    - university: "北京邮电大学（自考）"
+      year: "2005-2023"
+      degree: "计算机学士"
+
 # experience
 experience:
   enable: true
@@ -194,24 +212,6 @@ experience:
     - title: "技术合伙人 & CTO"
       company: "ShenzhenWare"
       duration: "Aug 2015 - Jun 2016"
-
-# education
-education:
-  enable: true
-  title: "Education"
-  items:
-    - university: "麻省理工"
-      year: "2022-2023"
-      degree: "Finance MicroMasters"
-    - university: "混沌大学"
-      year: "2021.04 - 2021.06"
-      degree: "创新方法论，第二曲线，错位竞争..."
-    - university: "海创汇创业加速营"
-      year: "2021.03 - 2021.08"
-      degree: "商业模式创新"
-    - university: "北京邮电大学（自考）"
-      year: "2005-2023"
-      degree: "计算机学士"
 
 # Client & Work
 client_and_work:
