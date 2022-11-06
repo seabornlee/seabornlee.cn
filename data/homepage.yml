@@ -96,6 +96,92 @@ experience:
     - title: "AlphaWallet Android Lead"
       company: "Smart Token Labs"
       duration: "Jan 2022 - Present"
+head:
+  title: "李小波 - Seaborn Lee"
+# showcase
+showcase:
+  enable: true
+  title: "你好，我是小波老西"
+  subtitle: "一位有趣程序员，敏捷教练"
+  description: "热衷于做产品的全栈工程师，前优普丰首席软件工程教练，前 Thoughtworks 高级咨询师，前 Thoughtworks 首席培训师，著有《成为百万年薪的敏捷教练》知识星球，译有《七周七语言二》。三个孩子的父亲，力求培养有良知，志向远大，具备独立思考能力的未来企业家；爱好 🎹，🛹，🏄，⛷ 等。"
+  image:
+    alt: "Showcase keyboard and mouse image"
+    x: "img/showcase/showcase.png"
+    _2x: "img/showcase/showcase@2x.png"
+  imageMobile:
+    alt: "Showcase keyboard and mouse image"
+    x: "img/showcase/showcase-mobile.jpg"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact"
+    URL: "mailto:seabornlee.cn@gmail.com"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/seaborn-lee"
+
+    - icon: "github"
+      URL: "https://github.com/seabornlee"
+
+    - icon: "twitter"
+      URL: "https://twitter.com/seabornli"
+
+    - icon: "facebook"
+      URL: "https://www.facebook.com/seaborn.lee/"
+
+# about
+about:
+  enable: true
+  title: "Who am I?"
+  content: '<p class="lead">
+1 敏捷/精益/DevOps专家，曾任ThoughtWorks 社招入职培训导师
+<br>
+2 擅长培训，团队引导和一对一教练，在京东培训NPS 达96%
+<br>
+3 华为外聘技术教练、优普丰首席工程教练，京东、上海期货指定其提供服务
+<br>
+4 从 2013年起面对客户工作，从CXO到一线员工都能高效互动
+<br>
+5 文化适应性强，服务过私企、国企、外企、上市公司，创过业
+<br>
+6 能从工作、家庭、自我管理等多方面成就客户，身体力行地影响他人
+<br>
+7 著有知识星球《成为百万年薪的敏捷教练》，译有《七周七语言二》
+<p class="lead">
+生长在贵州，曾在北京、深圳工作，目前和家人居住在成都
+    </p>
+    </p>'
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://timeline.seabornlee.cn/timeline/consultant/"
+  image:
+    x: "img/who-am-i/profile.png"
+    _2x: "img/who-am-i/profile@2x.png"
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: '
+    超过 13 年软件产品研发和管理经验，目前专注于区块链领域
+    致力于促进团队协作，提升开发体验，交付更大价值
+    擅长灵活运用培训，引导，教练等技术发展他人
+    精通前后端，移动端应用开发'
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "LinkedIn"
+    URL: "https://www.linkedin.com/in/seaborn-lee"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "下载我的简历"
+    URL: "李小波-敏捷教练.pdf"
+
+  items:
+    - title: "AlphaWallet Android Lead"
+      company: "Smart Token Labs"
+      duration: "Jan 2022 - Present"
 
     - title: "首席工程教练"
       company: "优普丰敏捷学院"
@@ -103,6 +189,244 @@ experience:
 
     - title: "首席培训师/高级咨询师"
       company: "Thoughtworks"
+      duration: "Jun 2016 - Jun 2018，Aug 2013 - Aug 2015"
+
+    - title: "技术合伙人 & CTO"
+      company: "ShenzhenWare"
+      duration: "Aug 2015 - Jun 2016"
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "麻省理工"
+      year: "2022-2023"
+      degree: "Finance MicroMasters"
+    - university: "混沌大学"
+      year: "2021.04 - 2021.06"
+      degree: "创新方法论，第二曲线，错位竞争..."
+    - university: "海创汇创业加速营"
+      year: "2021.03 - 2021.08"
+      degree: "商业模式创新"
+    - university: "北京邮电大学（自考）"
+      year: "2005-2023"
+      degree: "计算机学士"
+
+# Client & Work
+client_and_work:
+  title: "Clients & Works"
+  enable: true
+
+  clients:
+    - logo:
+        x: "img/clients/huawei.png"
+        _2x: "img/clients/huawei@2x.png"
+      alt: "华为"
+
+    - logo:
+        x: "img/clients/tencent.png"
+        _2x: "img/clients/tencent@2x.png"
+      alt: "腾讯"
+
+    - logo:
+        x: "img/clients/dji.png"
+        _2x: "img/clients/dji@2x.png"
+      alt: "大疆无人机"
+
+    - logo:
+        x: "img/clients/pufa.png"
+        _2x: "img/clients/pufa@2x.png"
+      alt: "浦发银行"
+
+    - logo:
+        x: "img/clients/mastercard.png"
+        _2x: "img/clients/mastercard@2x.png"
+      alt: "mastercard"
+
+    - logo:
+        x: "img/clients/travelsky.jpg"
+        _2x: "img/clients/travelsky@2x.jpg"
+      alt: "中航信"
+
+    - logo:
+        x: "img/clients/bz.png"
+        _2x: "img/clients/bz@2x.png"
+      alt: "宝尊电商"
+
+    - logo:
+        x: "img/clients/iplayabc.png"
+        _2x: "img/clients/iplayabc@2x.png"
+      alt: "绘玩英语"
+
+    - logo:
+        x: "img/clients/oocl.png"
+        _2x: "img/clients/oocl@2x.png"
+      alt: "OOCL"
+
+    - logo:
+        x: "img/clients/hsbc.png"
+        _2x: "img/clients/hsbc@2x.png"
+      alt: "汇丰银行"
+
+    - logo:
+        x: "img/clients/jd.png"
+        _2x: "img/clients/jd@2x.png"
+      alt: "JD"
+
+    - logo:
+        x: "img/clients/welab.png"
+        _2x: "img/clients/welab@2x.png"
+      alt: "WeLab"
+
+    - logo:
+        x: "img/clients/tellhow.png"
+        _2x: "img/clients/tellhow@2x.png"
+      alt: "泰豪科技"
+
+  works:
+    - title: "华为技术教练"
+      description: "为华为提供重构，TDD，OO，结对编程，代码评审等内容，辅导团队技术 Leader 成长"
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+      image:
+        x: "img/works/huawei.jpg"
+        _2x: "img/works/huawei@2x.jpg"
+      is_even: true
+
+    - title: "浦发敏捷转型"
+      description: "为浦发银行成都分中心提供千人组织级转型辅导，包括组织结构调整，内部教练培养，文化社区建设等"
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+      image:
+        x: "img/works/pufa.jpg"
+        _2x: "img/works/pufa@2x.jpg"
+      is_even: false
+
+    - title: "腾讯PCG 单元测试培训"
+      description: "为腾讯开发人员提供单元测试原则，Mock，代码重构，可测试性提升相关的培训"
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+      image:
+        x: "img/works/tencent.jpg"
+        _2x: "img/works/tencent@2x.jpg"
+      is_even: true
+
+certification:
+  title: "Certifications"
+  enable: true
+
+  certifications:
+    - logo:
+        x: "img/certifications/cipmt.png"
+        _2x: "img/certifications/cipmt@2x.png"
+      url: "https://www.ciichr.com/nciichr/index/rcglyfz/kcpx/cipmtgjzypxsrz/index.html"
+      alt: "Certified International Professional Managers Trainer Program"
+    - logo:
+        x: "img/certifications/sats.png"
+        _2x: "img/certifications/sats@2x.png"
+      url: "https://www.scruminc.com/scrum-at-scale-certification/"
+      alt: "Scrum@Scale"
+    - logo:
+        x: "img/certifications/csp-sm.png"
+        _2x: "img/certifications/csp-sm@2x.png"
+      url: "https://www.scrumalliance.org/community/profile/xli87"
+      alt: "Certified Scrum Professional Scrum Master"
+    - logo:
+        x: "img/certifications/acsm.png"
+        _2x: "img/certifications/acsm@2x.png"
+      url: "https://www.scrumalliance.org/community/profile/xli87"
+      alt: "英国皇家工会认证国际职业培训师"
+    - logo:
+        x: "img/certifications/cspo.png"
+        _2x: "img/certifications/cspo@2x.png"
+      url: "https://www.scrumalliance.org/community/profile/xli87"
+      alt: "英国皇家工会认证国际职业培训师"
+    - logo:
+        x: "img/certifications/csd.png"
+        _2x: "img/certifications/csd@2x.png"
+      url: "https://www.scrumalliance.org/community/profile/xli87"
+      alt: "英国皇家工会认证国际职业培训师"
+    - logo:
+        x: "img/certifications/dom.png"
+        _2x: "img/certifications/dom@2x.png"
+      url: "https://baidu.com"
+      alt: "英国皇家工会认证国际职业培训师"
+    - logo:
+        x: "img/certifications/csm.png"
+        _2x: "img/certifications/csm@2x.png"
+      url: "https://www.scrumalliance.org/community/profile/xli87"
+      alt: "英国皇家工会认证国际职业培训师"
+
+# testimonial
+testimonial:
+  enable: true
+  title: "Testimonials"
+  items:
+    - name: "Aananth Solaiyappan"
+      position: "WeLab, CTO"
+      content: "Seaborne has the right mix of curiosity, talent and passionate hard work. He was an Agile evangelist and always loved to share his knowledge and experiences with other team members. I'd love to have him back in my team any day."
+      image:
+        x: "img/testimonials/aananth.jpg"
+        _2x: "img/testimonials/aananth@2x.jpg"
+
+    - name: "王淑静"
+      position: "中航信沈阳研发中心，总经理"
+      content: "一位热爱生活热爱技术的教练，一位知行合一值得信赖的培训师，明明可以靠颜值却偏要靠实力的小波老师，对编程语言和业务拥有持续的好奇心，可以洞察事物的本质，直接触达培训人员的内心，给了我们团队很大的帮助！"
+      image:
+        x: "img/testimonials/wsj.jpg"
+        _2x: "img/testimonials/wsj@2x.jpg"
+
+    - name: "高连华"
+      position: "福佑卡车, 技术总监"
+      content: "在整个敏捷实施过程中，你在每个环节都配合了趣味的活动和仪式感，让团队成员高速响应业务需求之外，沟通更加充分高效，轻松愉快，团队目标感，责任感大大增强。让我们两个敏捷团队参与成员，从对敏捷有模糊的认知到高度的认同！"
+      image:
+        x: "img/testimonials/gg.png"
+        _2x: "img/testimonials/gg@2x.png"
+
+# contact
+contact:
+  enable: false
+  title: "Contact"
+  form:
+    method: "POST"
+    action: "#"
+    full_name: "Full Name"
+    email: "Email Address"
+    message: "Type Your Message Here"
+  phone:
+    title: "Phone Number"
+    number: "+41 (44) 505 10 99"
+  email:
+    title: "Email"
+    email: '<a href="mailto:team@radity.com">team@radity.com</a>'
+  address:
+    title: "Address"
+    address: "Radity GmbH<br />Max-Bill-Platz 5, 8050 Zürich"
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+
+# newsletter
+newsletter:
+  enable: false
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."
+
+    - title: "首席工程教练"
+      company: "优普丰敏捷学院"
+      duration: "Jun 2018 - Dec 2021"
+
+    - title: "首席培训师/高级咨询师"
+      company: "ThoughtWorks"
       duration: "Jun 2016 - Jun 2018，Aug 2013 - Aug 2015"
 
     - title: "技术合伙人 & CTO"
