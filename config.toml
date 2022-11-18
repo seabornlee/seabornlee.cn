@@ -27,12 +27,12 @@ theme = "raditian-free-hugo-theme"
 
   [[menu.header]]
   name = "文章"
-  URL = "https://www.jianshu.com/u/8c334a900445"
+  URL = "https://life.seabornlee.cn"
   weight = 2
 
   [[menu.header]]
-  name = "编程"
-  URL = "https://codingstyle.cn"
+  name = "视频"
+  URL = "https://space.bilibili.com/21815801/video"
   weight = 3
 
   [[menu.header]]
@@ -42,12 +42,12 @@ theme = "raditian-free-hugo-theme"
 
   [[menu.footer]]
   name = "文章"
-  URL = "https://www.jianshu.com/u/8c334a900445"
+  URL = "https://life.seabornlee.cn"
   weight = 2
 
   [[menu.footer]]
-  name = "编程"
-  URL = "https://codingstyle.cn"
+  name = "视频"
+  URL = "https://space.bilibili.com/21815801/video"
   weight = 3
 
   [[menu.footer]]

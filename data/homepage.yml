@@ -356,7 +356,7 @@ certification:
     - logo:
         x: "img/certifications/dom.png"
         _2x: "img/certifications/dom@2x.png"
-      url: "https://baidu.com"
+      url: "https://www.exin.com/agile-devops-lean/exin-devops/exin-devops-master/"
       alt: "DevOps Master"
 
 # testimonial
@@ -410,7 +410,7 @@ contact:
 
 # newsletter
 newsletter:
-  enable: true
+  enable: false
   title: "Newsletter subscription"
   success_message: "Successfully subscribed"
   error_message: "Error while subscribing."
