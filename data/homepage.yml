@@ -1,108 +1,9 @@
 head:
   title: "李浪溪 - Seaborn Lee"
-# showcase
 showcase:
   enable: true
   title: "你好，我是李浪溪"
   subtitle: "有趣的程序员，敏捷教练"
-  description: "热衷于做产品的全栈工程师，前优普丰首席软件工程教练，前 Thoughtworks 高级咨询师，前 Thoughtworks 首席培训师，著有《成为百万年薪的敏捷教练》知识星球，译有《七周七语言二》。三个孩子的父亲，力求培养有良知，志向远大，具备独立思考能力的未来企业家；爱好 🎹，🛹，🏄，⛷ 等。"
-  image:
-    alt: "Showcase keyboard and mouse image"
-    x: "img/showcase/showcase.png"
-    _2x: "img/showcase/showcase@2x.png"
-  imageMobile:
-    alt: "Showcase keyboard and mouse image"
-    x: "img/showcase/showcase-mobile.jpg"
-
-  button:
-    icon: "icon-mail-fill"
-    btnText: "Contact"
-    URL: "mailto:seabornlee.cn@gmail.com"
-
-  socialLinks:
-    - icon: "linkedin"
-      URL: "https://www.linkedin.com/in/seaborn-lee"
-
-    - icon: "github"
-      URL: "https://github.com/seabornlee"
-
-    - icon: "twitter"
-      URL: "https://twitter.com/seabornli"
-
-    - icon: "facebook"
-      URL: "https://www.facebook.com/seaborn.lee/"
-
-# about
-about:
-  enable: true
-  title: "Who am I?"
-  content: '<p class="lead">
-1 敏捷/精益/DevOps专家，曾任ThoughtWorks 社招入职培训导师
-<br>
-2 擅长培训，团队引导和一对一教练，在京东培训NPS 达96%
-<br>
-3 华为外聘技术教练、优普丰首席工程教练，京东、上海期货指定其提供服务
-<br>
-4 从 2013年起面对客户工作，从CXO到一线员工都能高效互动
-<br>
-5 文化适应性强，服务过私企、国企、外企、上市公司，创过业
-<br>
-6 能从工作、家庭、自我管理等多方面成就客户，身体力行地影响他人
-<br>
-7 著有知识星球《成为百万年薪的敏捷教练》，译有《七周七语言二》
-<p class="lead">
-生长在贵州，曾在北京、深圳工作，目前和家人居住在成都
-    </p>
-    </p>'
-  button:
-    icon: "icon-smile-fill"
-    btnText: "About Me"
-    URL: "https://timeline.seabornlee.cn/timeline/consultant/"
-  image:
-    x: "img/who-am-i/profile.png"
-    _2x: "img/who-am-i/profile@2x.png"
-
-# education
-education:
-  enable: false
-  title: "Education"
-  items:
-    - university: "University of Waterloo"
-      year: "2012-2017"
-      degree: "Bachelor of Applied Science (BASc), Electrical Engineering"
-
-    - university: "Sir John A Macdonald CI"
-      year: "2009-2012"
-      degree: "High School Diploma, Sciences, Math, Computer & Business Studies"
-
-# experience
-experience:
-  enable: true
-  title: "Experience"
-  description: '
-    超过 13 年软件产品研发经验，致力于促进团队协作，提升开发体验，交付更大价值；
-    擅长灵活运用培训，引导，教练等技术发展他人；
-    精通前后端，移动端应用开发'
-  button:
-    icon: "icon-linkedin-fill"
-    btnText: "LinkedIn"
-    URL: "https://www.linkedin.com/in/seaborn-lee"
-  button2:
-    icon: "icon-profile-fill"
-    btnText: "下载我的简历"
-    URL: "李小波-敏捷教练.pdf"
-
-  items:
-    - title: "AlphaWallet Android Lead"
-      company: "Smart Token Labs"
-      duration: "Jan 2022 - Present"
-head:
-  title: "李小波 - Seaborn Lee"
-# showcase
-showcase:
-  enable: true
-  title: "你好，我是小波老西"
-  subtitle: "一位有趣程序员，敏捷教练"
   description: "热衷于做产品的全栈工程师，前优普丰首席软件工程教练，前 Thoughtworks 高级咨询师，前 Thoughtworks 首席培训师，著有《成为百万年薪的敏捷教练》知识星球，译有《七周七语言二》。三个孩子的父亲，力求培养有良知，志向远大，具备独立思考能力的未来企业家；爱好 🎹，🛹，🏄，⛷ 等。"
   image:
     alt: "Showcase keyboard and mouse image"
@@ -194,7 +95,7 @@ experience:
   button2:
     icon: "icon-profile-fill"
     btnText: "下载我的简历"
-    URL: "李小波-敏捷教练.pdf"
+    URL: "李浪溪-敏捷教练.pdf"
 
   items:
     - title: "AlphaWallet Android Lead"
