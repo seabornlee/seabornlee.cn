@@ -61,24 +61,6 @@ about:
     x: "img/who-am-i/profile.png"
     _2x: "img/who-am-i/profile@2x.png"
 
-# education
-education:
-  enable: true
-  title: "Education"
-  items:
-    - university: "麻省理工"
-      year: "2022-2023"
-      degree: "Finance MicroMasters"
-    - university: "混沌大学"
-      year: "2021.04 - 2021.06"
-      degree: "创新方法论，第二曲线，错位竞争..."
-    - university: "海创汇创业加速营"
-      year: "2021.03 - 2021.08"
-      degree: "商业模式创新"
-    - university: "北京邮电大学（自考）"
-      year: "2005-2023"
-      degree: "计算机学士"
-
 # experience
 experience:
   enable: true
@@ -260,6 +242,24 @@ certification:
       url: "https://www.exin.com/agile-devops-lean/exin-devops/exin-devops-master/"
       alt: "DevOps Master"
 
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "麻省理工"
+      year: "2022-2023"
+      degree: "Finance MicroMasters"
+    - university: "混沌大学"
+      year: "2021.04 - 2021.06"
+      degree: "创新方法论，第二曲线，错位竞争..."
+    - university: "海创汇创业加速营"
+      year: "2021.03 - 2021.08"
+      degree: "商业模式创新"
+    - university: "北京邮电大学（自考）"
+      year: "2005-2023"
+      degree: "计算机学士"
+
 # testimonial
 testimonial:
   enable: true
@@ -291,8 +291,8 @@ contact:
   enable: false
   title: "Contact"
   form:
-    method: "POST"
-    action: "#"
+    method: "GET"
+    action: "mailto:seabornlee.cn@gmail.com
     full_name: "Full Name"
     email: "Email Address"
     message: "Type Your Message Here"
@@ -301,7 +301,7 @@ contact:
     number: "+41 (44) 505 10 99"
   email:
     title: "Email"
-    email: '<a href="mailto:team@radity.com">team@radity.com</a>'
+    email: '<a href="mailto:seabornlee.cn@gmail.com">seabornlee.cn@gmail.com</a>'
   address:
     title: "Address"
     address: "Radity GmbH<br />Max-Bill-Platz 5, 8050 Zürich"
