@@ -3,7 +3,7 @@ head:
 showcase:
   enable: true
   title: "你好，我是李浪溪"
-  subtitle: "有趣的程序员，敏捷教练"
+  subtitle: "全能敏捷教练：引领技术前沿，激发创新力量"
   description: "热衷于做产品的全栈工程师，前优普丰首席软件工程教练，前 Thoughtworks 高级咨询师，前 Thoughtworks 首席培训师，著有《成为百万年薪的敏捷教练》知识星球，译有《七周七语言二》。三个孩子的父亲，力求培养有良知，志向远大，具备独立思考能力的未来企业家；爱好 🎸，🛹，🏄，⛷ 等。"
   image:
     alt: "Showcase keyboard and mouse image"
