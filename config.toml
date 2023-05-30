@@ -57,7 +57,7 @@ theme = "raditian-free-hugo-theme"
 
 [params]
 
-  sections = ["showcase", "about", "education", "experience", "client-and-work", "testimonial", "certification", "contact", "newsletter"]
+  sections = ["showcase", "about", "experience", "client-and-work", "testimonial", "education", "certification", "contact", "newsletter"]
 
   googleTagManagerID = "G-TPHYCP133Q" # Google Analytics works with Google Tag Manager
 
@@ -71,4 +71,3 @@ theme = "raditian-free-hugo-theme"
         x = "img/general/design-and-code-radity.png"
         _2x = "img/general/design-and-code-radity@2x.png"
         alt = "Design & Code - Radity"
-  name = "编程"
