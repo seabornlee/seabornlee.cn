@@ -62,11 +62,11 @@ theme = "raditian-free-hugo-theme"
   googleTagManagerID = "G-TPHYCP133Q" # Google Analytics works with Google Tag Manager
 
   [params.logo]
-    text1 = "Seaborn"
+    text1 = "Water"
     text2 = "Lee"
 
   [params.footer]
-      copyright = "© Seaborn. All rights reserved."
+      copyright = "© Water Lee. All rights reserved."
       [params.footer.radity_logo]
         x = "img/general/design-and-code-radity.png"
         _2x = "img/general/design-and-code-radity@2x.png"
