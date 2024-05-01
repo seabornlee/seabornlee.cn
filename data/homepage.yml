@@ -56,7 +56,7 @@ about:
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
-    URL: "https://timeline.seabornlee.cn/timeline/consultant/"
+    URL: "https://timeline.waterlee.site/timeline/consultant/"
   image:
     x: "img/who-am-i/profile.png"
     _2x: "img/who-am-i/profile@2x.png"
@@ -73,7 +73,7 @@ experience:
   button:
     icon: "icon-linkedin-fill"
     btnText: "LinkedIn"
-    URL: "https://www.linkedin.com/in/seaborn-lee"
+    URL: "https://www.linkedin.com/in/water-lee"
   button2:
     icon: "icon-profile-fill"
     btnText: "下载我的简历"
@@ -275,7 +275,7 @@ testimonial:
   items:
     - name: "Aananth Solaiyappan"
       position: "WeLab, CTO"
-      content: "Seaborne has the right mix of curiosity, talent and passionate hard work. He was an Agile evangelist and always loved to share his knowledge and experiences with other team members. I'd love to have him back in my team any day."
+      content: "Water Lee has the right mix of curiosity, talent and passionate hard work. He was an Agile evangelist and always loved to share his knowledge and experiences with other team members. I'd love to have him back in my team any day."
       image:
         x: "img/testimonials/aananth.jpg"
         _2x: "img/testimonials/aananth@2x.jpg"
@@ -300,7 +300,7 @@ contact:
   title: "Contact"
   form:
     method: "GET"
-    action: "mailto:seabornlee.cn@gmail.com"
+    action: "mailto:waterlee.site@gmail.com"
     full_name: "Full Name"
     email: "Email Address"
     message: "Type Your Message Here"
