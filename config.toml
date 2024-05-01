@@ -1,4 +1,4 @@
-baseURL = "https://seabornlee.cn/"
+baseURL = "https://waterlee.site"
 languageCode = "zh-cn"
 theme = "raditian-free-hugo-theme"
 
@@ -27,7 +27,7 @@ theme = "raditian-free-hugo-theme"
 
   [[menu.header]]
   name = "文章"
-  URL = "https://life.seabornlee.cn"
+  URL = "https://life.waterlee.site"
   weight = 2
 
   [[menu.header]]
@@ -37,12 +37,12 @@ theme = "raditian-free-hugo-theme"
 
   [[menu.header]]
   name = "时间线"
-  URL = "https://timeline.seabornlee.cn/timeline"
+  URL = "https://timeline.waterlee.site/timeline"
   weight = 4
 
   [[menu.footer]]
   name = "文章"
-  URL = "https://life.seabornlee.cn"
+  URL = "https://life.waterlee.site"
   weight = 2
 
   [[menu.footer]]
@@ -52,7 +52,7 @@ theme = "raditian-free-hugo-theme"
 
   [[menu.footer]]
   name = "时间线"
-  URL = "https://timeline.seabornlee.cn/timeline"
+  URL = "https://timeline.waterlee.site/timeline"
   weight = 4
 
 [params]

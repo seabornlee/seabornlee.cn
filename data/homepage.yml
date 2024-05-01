@@ -1,5 +1,5 @@
 head:
-  title: "李浪溪 - Seaborn Lee"
+  title: "李浪溪 - Water Lee"
 showcase:
   enable: true
   title: "你好，我是李浪溪"
@@ -16,11 +16,11 @@ showcase:
   button:
     icon: "icon-mail-fill"
     btnText: "Contact"
-    URL: "mailto:seabornlee.cn@gmail.com"
+    URL: "mailto:waterlee.site@gmail.com"
 
   socialLinks:
     - icon: "linkedin"
-      URL: "https://www.linkedin.com/in/seaborn-lee"
+      URL: "https://www.linkedin.com/in/water-lee"
 
     - icon: "github"
       URL: "https://github.com/seabornlee"
@@ -66,7 +66,7 @@ experience:
   enable: true
   title: "Experience"
   description: '
-    超过 14 年软件产品研发和管理经验，目前专注于区块链领域；
+    超过 16 年软件产品研发和管理经验，目前专注于AI赋能精神健康；
     擅长 Scrum 和 Extreme Programming，规范团队开发流程和实践；
     擅长灵活运用培训，引导，教练等技术发展他人；
     精通前后端，移动端应用开发'
@@ -80,9 +80,13 @@ experience:
     URL: "李浪溪-敏捷教练.pdf"
 
   items:
+    - title: "技术VP"
+      company: "旷智勇心理工作室"
+      duration: "Jan 2024 - Present"
+
     - title: "独立开发者"
       company: "浪溪网络"
-      duration: "June 2023 - Present"
+      duration: "June 2023 - Jan 2024"
 
     - title: "AlphaWallet Android Lead"
       company: "Smart Token Labs"
