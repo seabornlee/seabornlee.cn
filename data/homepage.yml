@@ -255,6 +255,9 @@ education:
   enable: true
   title: "Education"
   items:
+    - university: "University of Liverpool"
+      year: "2024-2026"
+      degree: "MSc Artificial Intelligence"
     - university: "麻省理工"
       year: "2022-2023"
       degree: "Finance MicroMasters"
@@ -264,9 +267,6 @@ education:
     - university: "海创汇创业加速营"
       year: "2021.03 - 2021.08"
       degree: "商业模式创新"
-    - university: "北京邮电大学（自考）"
-      year: "2005-2023"
-      degree: "计算机学士"
 
 # testimonial
 testimonial:
