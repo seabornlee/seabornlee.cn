@@ -77,12 +77,12 @@ experience:
   button2:
     icon: "icon-profile-fill"
     btnText: "下载我的简历"
-    URL: "李浪溪-敏捷教练.pdf"
+    URL: "李浪溪.pdf"
 
   items:
     - title: "技术VP"
       company: "旷智勇心理工作室"
-      duration: "Jan 2024 - Present"
+      duration: "Jan 2024 - Sep 2024"
 
     - title: "独立开发者"
       company: "浪溪网络"
