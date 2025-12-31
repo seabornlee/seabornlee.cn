@@ -30,6 +30,10 @@ main() {
     git fetch --unshallow
   fi
 
+  # Initialize and update submodules (theme)
+  echo "Initializing submodules..."
+  git submodule update --init --recursive
+
   # Build the site
   echo "Building the site"
   hugo --gc --minify --baseURL "https://${VERCEL_PROJECT_PRODUCTION_URL}"
