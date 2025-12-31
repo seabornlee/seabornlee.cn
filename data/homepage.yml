@@ -1,5 +1,7 @@
 head:
-  title: "李浪溪 - Water Lee"
+  title: "李浪溪 - Water Lee - 研发教练/技术管理"
+  description: "李浪溪是一位全栈工程师，专注于敏捷和DevOps，助力企业转型与成长，热爱生活与技术。"
+  keywords: "李浪溪,Water Lee,敏捷教练,研发教练,技术管理,Scrum,TDD,DevOps,代码重构,单元测试,敏捷培训,Thoughtworks,华为技术教练"
 showcase:
   enable: true
   title: "你好，我是李浪溪"
