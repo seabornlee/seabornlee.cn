@@ -36,7 +36,9 @@ main() {
 
   # Build the site
   echo "Building the site"
-  hugo --gc --minify --baseURL "https://${VERCEL_PROJECT_PRODUCTION_URL}"
+  # Keep the canonical domain defined in config.toml. Vercel's production URL
+  # may still point at a legacy/custom domain and must not rewrite asset URLs.
+  hugo --gc --minify
 
 }
 
