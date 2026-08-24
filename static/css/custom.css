@@ -1,0 +1,16 @@
+.rad-showcase__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+.rad-showcase__actions .btn {
+  margin: 0;
+}
+
+@media (max-width: 575px) {
+  .rad-showcase__actions {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+}

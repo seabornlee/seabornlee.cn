@@ -20,6 +20,11 @@ showcase:
     btnText: "Contact"
     URL: "mailto:waterlee.site@gmail.com"
 
+  button2:
+    icon: "icon-arrow-right"
+    btnText: "阅读《向存在说 Yes》"
+    URL: "https://life.waterlee.site/series/yes-to-being/"
+
   socialLinks:
     - icon: "linkedin"
       URL: "https://www.linkedin.com/in/water-lee"
